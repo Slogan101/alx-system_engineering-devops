@@ -16,3 +16,4 @@ Task 14. Copy HTML files
 Task 15. Let's move
 Task 16. Clean emacs
 Task 17. Tree
+Task 18. Life is a series of commas, not periods

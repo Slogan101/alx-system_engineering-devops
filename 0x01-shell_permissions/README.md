@@ -6,3 +6,4 @@ Task 4. Empty!
 Task 5. Execute
 Task 6. Multiple permissions
 Task 7. Everbody
+Task 8. James Bond

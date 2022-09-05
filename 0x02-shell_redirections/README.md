@@ -8,4 +8,5 @@ Task 6. Line #2
 Task 7. It is a good file that cuts iron without making a noise
 Task 8. Save current state of directory
 Task 9. Duplicate las line
-Task 10. No more Javascript 
+Task 10. No more Javascript
+Task 11. Don't just count your directories, make your directories count 

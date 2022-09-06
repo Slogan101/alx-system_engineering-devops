@@ -16,3 +16,4 @@ Task 14. It must be in that file
 Task 15. Count that word
 Task 16. What's next?
 Task 17. I hate bins
+Task 18. Letters only please

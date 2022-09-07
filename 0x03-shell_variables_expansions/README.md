@@ -12,3 +12,4 @@ Task 10. Love is anterior to life, posterior to death, initial of creation, and 
 Task 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
 Task 12. Combination
 Task 13. Floats
+Task 14. Decimal to Hexadecimal

@@ -5,3 +5,4 @@ Task 3. If the path be beautiful, let us not ask where it leads
 Task 4. Global Variables
 Task 5. Local Variables
 Task 6. Local variable
+Task 7. Global Variable

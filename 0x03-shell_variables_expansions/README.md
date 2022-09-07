@@ -4,3 +4,4 @@ Task 2. The path to success is to take massive, determined action
 Task 3. If the path be beautiful, let us not ask where it leads
 Task 4. Global Variables
 Task 5. Local Variables
+Task 6. Local variable

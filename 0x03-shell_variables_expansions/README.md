@@ -13,3 +13,4 @@ Task 11. There are 10 types of people in the world -- Those who understand binar
 Task 12. Combination
 Task 13. Floats
 Task 14. Decimal to Hexadecimal
+Task 15. Everyone is a proponent of strong encryption
